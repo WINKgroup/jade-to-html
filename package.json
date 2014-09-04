@@ -1,0 +1,10 @@
+{
+  "name": "jade-to-html",
+  "version": "0.0.1",
+  "description": "Convert jade file to html",
+  "author": "Andrea Giglio <andrea-giglio@live.it>",
+ "dependencies": {
+    "jade": "*",
+  	"glob":"*"
+  }
+}
